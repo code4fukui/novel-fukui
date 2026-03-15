@@ -1,14 +1,17 @@
-# ノベルふくい
+# novel-fukui
+日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
-## 紫式部の国府での一日
-- [アプリで見る(egadv)](https://code4fukui.github.io/egadv/?url=https://code4fukui.github.io/novel-fukui/紫式部の国府での一日.md)
-- [スクリプト(Markdown)](紫式部の国府での一日.md)
+A collection of Japanese-language stories and novels set in Fukui Prefecture.
 
-## 越前市黄金伝説
-- [アプリで見る(egadv)](https://code4fukui.github.io/egadv/?url=https://code4fukui.github.io/novel-fukui/越前市黄金伝説.md)
-- [スクリプト(Markdown)](越前市黄金伝説.md)
-
+## Features
+- Two stories available in text and interactive visual novel formats:
+  - "A Day in the Life of Murasaki Shikibu at Echizen Palace"
+  - "The Legend of the Golden Treasure of Echizen City"
+- Interactive visual novel created with the `egadv` library
 
 ## egadv
-ノベル（アドベンチャーゲーム）作成入門  
-https://github.com/code4fukui/egadv  
+An introduction to creating visual novels (adventure games)  
+https://github.com/code4fukui/egadv
+
+## License
+This project is licensed under the [MIT License](LICENSE).
